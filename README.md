@@ -1,1 +1,1 @@
-# MySpring
+XML based configuration
